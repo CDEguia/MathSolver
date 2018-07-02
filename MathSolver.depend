@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530511225 source:/run/media/cde/Storage/CODE/MathSolver/main.cpp
+	<iostream>
+	<cmath>
+	<stdbool.h>
+	"Continue.h"
+
+1530511359 /run/media/cde/Storage/CODE/MathSolver/Continue.h
+
